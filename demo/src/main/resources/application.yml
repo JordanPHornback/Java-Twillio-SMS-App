@@ -1,4 +1,7 @@
 twilio:
-  account_sid: AC34795c1c1621029f6bc9b94f0e249c30
-  auth_token: 980bee5ffcae16ca8186c0fc666b8920
-  trial_number: +19895107232
+#  Left blank for security reasons
+  account_sid:
+#  Left blank for security reasons
+  auth_token:
+#  Left blank for security reasons
+  trial_number:
